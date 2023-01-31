@@ -6,12 +6,12 @@ export const NavBar = () =>{
         <nav>
         <ul>
           <li>
-            <NavLink className="index-link" activeClassName="active" exact to="/">
+            <NavLink className="index-link" exact to="/">
               Index
             </NavLink>
           </li>
           <li>
-            <NavLink className="home-link" activeClassName="active" exact to="/home">
+            <NavLink className="home-link" exact to="/home">
               Home
             </NavLink>
           </li>
