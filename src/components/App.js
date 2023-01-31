@@ -6,6 +6,7 @@ import { NavBar } from './NavBar';
 import { Home } from '../Pages/Home';
 import { Index } from '../Pages/Index';
 import { NotFound } from '../Pages/NotFound';
+
 const App = () => {
 
   return (
